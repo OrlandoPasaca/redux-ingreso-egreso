@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "redux-d2b83": {
+      "hosting": {
+        "ingresoEgreso": [
+          "redux-d2b83"
+        ]
+      }
+    }
+  }
+}
